@@ -1,0 +1,64 @@
+{
+  "BACKGROUND_CONTACTS_MSG": "Add and edit your contacts details.",
+  "BACKGROUND_CONTACTS_TITLE_MSG": "Add new contacts",
+  "BACKGROUND_CONTACTS_LIST_MSG": "These lists enables you to save and organise your contacts",
+  "BACKGROUND_CONTACTS_LIST_TITLE_MSG": "Create your contact list",
+  "CONTACTS_LISTS_ACTION": {
+    "ADD_DESCRIPTION": "Add a description",
+    "CREATE_CONTACTS_LIST": "Create a Contact List",
+    "FILTER_BY": {
+      "ALL_LISTS": "All lists",
+      "MY_LISTS": "My lists",
+      "OTHER_LISTS": "Other lists"
+    },
+    "MORE": {
+      "ADD_CONTACT": "Add contact",
+      "DELETE": "Delete",
+      "DUPLICATE_LIST": "Duplicate list",
+      "EDIT": "Edit",
+      "EXPORT_CSV": "Export CSV",
+      "IMPORT_CSV": "Import CSV",
+      "INFORMATION": "Details",
+      "RENAME": "Rename",
+      "SHOW_CONTACTS": "Show contacts"
+    },
+    "ORDER_BY": {
+      "CREATION_DATE": "Creation date",
+      "MAIL": "Mail",
+      "FIRST_NAME": "First name",
+      "LAST_NAME": "Last name",
+      "LIST_NAME": "List name",
+      "MODIFICATION_DATE": "Modification date",
+      "OWNER_FIRST_NAME": "Owner first name",
+      "OWNER_LAST_NAME": "Owner last name",
+      "OWNER_MAIL": "Owner mail",
+      "PRIVATE_PUBLIC": "Private/public"
+    },
+    "SEARCH_BY_NAME": "Search by name"
+  },
+  "CONTACTS_LISTS_DETAILS": {
+    "CONTACT": "Contact",
+    "CONTACTS": "Contacts",
+    "CONTACTS_LIST": "Contacts list",
+    "CONTACTS_LIST_DUPLICATED": "Contacts list duplicated successfully",
+    "CONTACTS_LISTS": "Contacts lists",
+    "OWNER": "Owner",
+    "OWNED_BY": "Owned by",
+    "ME": "Me",
+    "PRIVATE": "Private",
+    "PUBLIC": "Public",
+    "UNCOMPLETE_PROFILE": "Uncomplete profile",
+    "UPDATE_CONTACT_INFORMATIONS": "Update contact informations",
+    "UPDATE_CONTACT_IMPOSSIBLE": "You are not authorized to edit this contact",
+    "VISIBILITY": "Visibility"
+  },
+  "CREATE_CONTACTS_LIST": {
+    "CREATE": "Create",
+    "CREATE_FROM_THESE_CONTACTS": "Create a Contacts List from these contacts ?",
+    "INPUT_PLACEHOLDER": "Contacts List name"
+  },
+  "FORMS_MESSAGES": {
+    "INVALID_EMAIL": "Email address is invalid.",
+    "INVALID_EMPTY_FIELD": "This field cannot be empty."
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "SERVER_RESPONSE": {
+    "HTTP_CODES": {
+      "ERROR_400": "BAD REQUEST",
+      "ERROR_401": "UNAUTHORIZED",
+      "ERROR_403": "FORBIDDEN",
+      "ERROR_404": "NOT FOUND",
+      "ERROR_405": "METHOD NOT ALLOWED",
+      "ERROR_408": "REQUEST TIME OUT",
+      "ERROR_500": "INTERNAL SERVER ERROR",
+      "ERROR_501": "NOT IMPLEMENTED",
+      "ERROR_502": "BAD GATEWAY",
+      "ERROR_503": "SERVICE UNAVAILABLE",
+      "ERROR_520": "WEB SERVER IS RETURNING AN UNKNOWN ERROR",
+      "ERROR_DEFAULT": "ERROR NOT MANAGED"
+    },
+    "DETAILS": {
+      "DEFAULT": {
+        "NONE": "",
+        "SERVER": "The server is temporary not responding",
+        "1000": "Unknown error",
+        "2000": "Authentication error",
+        "2203": "You are not authorized to delete this guest",
+        "2204": "You are not authorized to update this guest",
+        "20000": "An error occurred with the database",
+        "20001": "You are not authorized to use this service",
+        "26000": "The workgroup doesn't exist or have been removed",
+        "26007": "Folder{{folderName}} not found",
+        "26444": "You do not have the rights",
+        "28000": "The guest has not been found",
+        "28001": "The guest already exists",
+        "28403": "You are not authorized to access this guest",
+        "28405": "The guest restricted contacts list is empty",
+        "28406": "The search for guests is invalid",
+        "38400": "The guest expiration date is invalid",
+        "46011": "The account quota has been reached"
+      },
+      "UPLOAD_ERROR": {
+        "NONE": "An error occurred during upload",
+        "200": "The document contains no data (size = 0 byte)",
+        "3000": "This filetype is forbidden (mime type)",
+        "3002": "This filetype is forbidden",
+        "3003": "The file was rejected because a virus was found",
+        "3007": "The file couldn't be scanned",
+        "26007": "Cannot upload the file, the folder doesn't exist or have been removed",
+        "26444": "You do not own the rights to upload file",
+        "39001": "The uploads are currently disabled since the maintenance mode has been activated",
+        "40403": "The uploaded file status can not be found",
+        "40404": "The uploaded file status can not be found",
+        "46001": "Server configuration error, upload impossible",
+        "46002": "Server configuration error, upload impossible",
+        "46003": "Server configuration error, upload impossible",
+        "46004": "Server configuration error, upload impossible",
+        "46010": "The file size is greater than the max file size authorized ({{maxFileSize}})",
+        "46011": "There is no more space available on the server, please retry later",
+        "46012": "There is no more space available on the server, please retry later",
+        "46013": "There is no more space available on the server, please retry later",
+        "46014": "There is no more space available on the server ({{quotaAttempt}}), free space and retry",
+        "46015": "There is no more space available on the server, please retry later",
+        "46403": "Server configuration error, upload impossible"
+      },
+      "WORKGROUP_NODES_ERROR": {
+        "26444": "You do not have the rights to write in this workgroup"
+      }
+    }
+  }
+}

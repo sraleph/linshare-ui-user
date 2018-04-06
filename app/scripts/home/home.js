@@ -57,6 +57,10 @@
         lang: 'VIETNAMESE',
         key: lsAppConfig.lang.vi
       }
+      SPANISH: {
+        lang: 'SPANISH',
+        key: lsAppConfig.lang.es
+      }
     };
 
     $scope.lsAppConfig = lsAppConfig;

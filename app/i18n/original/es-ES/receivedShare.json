@@ -1,0 +1,24 @@
+{
+  "BACKGROUND_RECEIVED_SHARES_MSG": "These shares are temporary file links, sent and hosted by your contacts.",
+  "BACKGROUND_RECEIVED_SHARES_TITLE_MSG": "View your received shares",
+  "BREADCRUMB_TITLE_RECEIVED_SHARES": "Received shares",
+  "FILTER" : {
+    "ORDER_BY_SENDER": "Sender"
+  },
+  "TOOLTIP" : {
+    "ADVANCED_FILTER" : "Show advanced filters",
+    "REMOVE_FILES" : "Remove selected files",
+    "DOWNLOAD_FILES" : "Download selected files",
+    "SHOW_MORE_OPTIONS" : "Show more options",
+    "DATE_OF_MODIFICATION" :"Modification date",
+    "DATE_OF_CREATION" :"Creation date"
+  },
+  "TABLE_HEADER": {
+    "NAME": "Name",
+    "TYPE": "Type",
+    "MODIFICATION_DATE": "Last modification",
+    "CREATION_DATE": "Creation date",
+    "SIZE": "Size",
+    "ACTION": "Actions"
+  }
+}

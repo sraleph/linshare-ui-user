@@ -1,0 +1,151 @@
+{
+  "PAGE_FILE_TITLE": "Files list",
+  "TABLE_HEADER": {
+    "NAME": "Name",
+    "MODIFICATION_DATE": "Last modification",
+    "CREATION_DATE": "Creation date",
+    "EXPIRATION_DATE": "Expiration date",
+    "SIZE": "Size",
+    "ACTION": "Actions"
+  },
+  "BACKGROUND_WORKGROUP_TITLE_MSG": "WORKGROUPS",
+  "BACKGROUND_WORKGROUP_MSG": "Create a workgroup in order to exchange files beetween your colleagues",
+  "BREADCRUMB_ISOLATE": "Isolation mode",
+  "BREADCRUMB_TITLE": "My files",
+  "FILE_DIRECTORY_DIALOG": {
+    "CANCEL": "Cancel",
+    "COPY_HERE": "Copy here",
+    "MOVE_HERE": "Move here",
+    "SHARED_SPACE": "Shared space",
+    "TITLE": "Pick the destination"
+  },
+  "RIGHT_PANEL": {
+    "EMPTY": "no file is selected",
+    "DETAILS": {
+      "ADVANCED_SHARE": "Advanced sharing",
+      "CANCEL": "Cancel",
+      "CIPHERED": "Ciphered",
+      "CIPHERED_NO": "No",
+      "CIPHERED_YES": "Yes",
+      "CREATE": "Create",
+      "CREATE_LIST": "Create a list",
+      "CREATION_DATE": "Created the",
+      "DESCRIPTION": "Description",
+      "EXPIRATION_DATE": "Expiration date",
+      "EXPIRATION_DATE_LABEL": "Expiration date:",
+      "INPUT_LIST_NAME": "Input the name of your list",
+      "MODIFICATION_DATE": "Modification date",
+      "NO_PREVIEW_AVAILABLE": "No preview available",
+      "PARAMETERS": "Parameters",
+      "PEOPLE_SHARED_WITH": "contact(s)",
+      "PREVIEW_NOT_LOADABLE": "Invalid preview",
+      "QUICK_SHARE": "Quick share",
+      "RECIPIENTS_SELECTION": "Recipients selection",
+      "SELECTED_FILES": "Selected files",
+      "SHARE": "Share",
+      "SHARE_PLACEHOLDER": "emails of recipients",
+      "SHARED_BY": "Shared by:",
+      "SHARED_WITH": "Shared with:",
+      "SHARING_DATE": "Sharing date",
+      "SIZE": "Size",
+      "THUMBNAIL": "Thumbnail of ",
+      "TITLE": "DETAILS",
+      "TYPE": "Type",
+      "UNDEFINED": "Undefined",
+      "UPLOAD_DATE": "Upload date"
+    },
+    "DETAIL_SHARE": {
+      "TITLE": "Share detail",
+      "SHARED_DATE": "Shared on the",
+      "EXPIRATION_DATE": " Expire on the",
+      "DOWNLOADED": "Downloaded",
+      "TIMES": "times",
+      "EDIT": "edit",
+      "VIEW_MORE": "view details",
+      "RESEND": "Resend",
+      "ABORT_SHARE": "Cancel share",
+      "SHARE_DESCRIPTION": "Share's description :",
+      "NO_DESCRIPTION" : "No description"
+    },
+    "ACTIVITIES": {
+      "TITLE": "ACTIVITIES"
+    },
+    "RECIPIENTS":{
+      "TITLE": "SHARES",
+      "DOWNLOADED": "Downloaded",
+      "NOT_DOWNLOADED": "Not downloaded",
+      "SEARCH_USERS": "Search by recipients",
+      "NO_SHARES": "You currently have no share."
+    },
+    "SHARE": {
+      "TITLE": "SHARING",
+      "SELECTED_FILES": "selected file(s)",
+      "UNHIDE_FILES": "show all",
+      "SHOW_SELECTED_FILES": "isolate selection",
+      "SETTINGS": "Settings",
+      "MORE_OPTIONS": "more options",
+      "RECIPIENTS": "Add recipients",
+      "CREATE_MAILING_LIST": "Save",
+      "CREATE_MAILING_LIST_ALT": "Create a mailing list"
+    },
+    "SHARE_OPTIONS": {
+      "FORCE_ANONYMOUS_SHARE_FOR_ALL_RECIPIENTS": "Force anonymous share for all recipients",
+      "TITLE": "Sharing options",
+      "ADD_NOTE": "Add a share description",
+      "ADD_NOTE_PLACEHOLDER": "Enter a sharing note",
+      "SECURE_SHARING": "Secure the sharing",
+      "SHARING_ACKNOWLEDGEMENT": "Sharing acknowledgement",
+      "USDA": "Undownloaded document alert",
+      "NOTIFICATION_DATE": "Notification of undownloaded the",
+      "ATTACH_EMAIL": "Customize the email",
+      "ATTACHED_EMAIL_SUBJECT": "Email subject",
+      "ATTACHED_EMAIL_BODY_PLACEHOLDER": "Enter your email message",
+      "GO_TO_UPLOAD_FILES": "Go back to uploads"
+    },
+    "CURRENT_SHARE_DETAIL": {
+      "TITLE": "Share details",
+      "RECIPIENTS": "Recipients",
+      "SHARE_PARAMS": "Share settings",
+      "NOTE": "Message",
+      "MAIL_CONTENT": "Email body content",
+      "CUSTOM_MAIL_TEMPLATE": "Custom email template",
+      "SHARE_OPTIONS": "Cancel share"
+    }
+  },
+  "SELECTED_FILES": {
+    "BREADCRUMB_TITLE": "Selected files",
+    "BACK_TO_ALL_FILES": "Back to my files",
+    "SHOW_DETAILS": "Show details"
+  },
+  "UPLOADED_FILES": {
+    "BREADCRUMB_TITLE": "Uploads",
+    "UPLOAD_FILES_BUTTON": "New upload",
+    "SELECT_INFO": "Select files to share"
+  },
+  "DRAG_DROP_BACKGROUND": {
+    "TITLE": "Drop your files here",
+    "COMMENT": "Drag and drop your files here to upload them"
+  },
+  "DRAG_DROP_BACKGROUND_MOBILE_MY_FILES": {
+    "TITLE": "Upload and share",
+    "COMMENT": "Upload and share your files."
+  },
+  "DRAG_DROP_BACKGROUND_ON_DRAG": {
+    "TITLE": "Drop your files here",
+    "COMMENT": "Drag and drop your files here to upload them"
+  },
+  "PREVIEW_MODE": {
+    "PDF_DOWNLOAD": "Click here to download the PDF file",
+    "NO_PDF_VIEWER": "Cannot load PDF preview",
+    "NO_PREVIEW_AVAILABLE": "No preview available"
+  },
+  "WORKGROUPS_LIST": {
+    "PROJECT": "Project",
+    "FOLDER": "Folder",
+    "SHARED_FOLDER": "Workgroup",
+    "UPLOAD_FILE": "File upload",
+    "UPLOAD_FOLDER": "Folder upload",
+    "UPLOAD_REQUEST": "Upload request",
+    "ADD_A_MEMBER": "Member"
+  }
+}

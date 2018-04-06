@@ -27,7 +27,8 @@
       lang: {
         fr: 'fr-FR',
         en: 'en-US',
-        vi: 'vi-VN'
+        vi: 'vi-VN',
+        es: 'es-ES'
       },
       licence: true,
       loginWithMailOnly: true,

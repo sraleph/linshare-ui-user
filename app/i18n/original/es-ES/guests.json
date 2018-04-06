@@ -1,0 +1,82 @@
+{
+  "BACKGROUND_GUEST_MSG": "By creating a temporary guest account, your contact will be able to exchange files within LinShare.",
+  "BACKGROUND_GUESTS_TITLE_MSG": "Create guest accounts",
+  "ACTION": {
+    "ADD_TO_WORKGROUPS": "Add to workgroups"
+  },
+  "BOUTON_LABEL_TITLE": {
+    "EDIT": "Edit",
+    "DELETE": "Delete",
+    "GUEST": "Guest(s)"
+  },
+  "BREADCRUMB_TITLE_GUEST": "Guests accounts",
+  "GUEST_DETAILS": {
+    "ACTIVATED": "Activated",
+    "ADMIN": "Administrator",
+    "ALREADY_A_MEMBER": "Already a member",
+    "AVAILABLE_CONTACTS": "Available contacts list",
+    "COMMENT": {
+      "EMPTY": "No comment",
+      "TITLE": "Comment"
+    },
+    "DEACTIVATED": "Deactivated",
+    "DETAIL_OF_GUEST_ACCOUNT": "Guest account details",
+    "DOMAIN": "Domain",
+    "EDIT_GUEST": "Edit",
+    "EXPIRE_THE": "Expire the",
+    "MY_SPACE": "My space",
+    "RESTRICTED_CONTACTS": "Restricted contacts",
+    "UPDATE_OF_GUEST_ACCOUNT": "Edit guest account"
+  },
+  "HEADER_GUEST": {
+    "DOMAIN": "Domain",
+    "SLIDER": {
+      "MY_GUEST": "My guests",
+      "OTHER_GUEST": "Other guests"
+    }
+
+  },
+  "NC": "N.C.",
+  "ORDER_BY": {
+    "EXPIRATION_DATE": "Expiration date",
+    "EMAIL": "Email",
+    "DOMAIN_NAME": "Domain name"
+  },
+  "SIDEBAR": {
+    "ADMIN_RIGHT": "You don't have the administrator rights to update this guest",
+    "BUTTON": {
+      "CREATE": "Create",
+      "CANCEL": "Cancel",
+      "UPDATE": "Update"
+    },
+    "ERROR": {
+      "INVALID_DATE": "The date needs to be greater than today's date and cannot exceed the maximum expiry date being the : ",
+      "INVALID_EMAIL": "Email address is invalid.",
+      "INVALID_EMPTY_FIELD": "This field cannot be empty."
+    },
+    "LABEL": {
+      "ACTIVATE_USER_SPACE": "Activate user space",
+      "ADD_DESCRIPTION": "Add user description",
+      "ADD_EMAIL": "Add a message",
+      "ADVANCED_OPTIONS": "Advanced options",
+      "ALLOW_MODIFICATORS": "Allow other users to modify this account",
+      "EMAIL": "Email",
+      "ENTER_DESCRIPTION": "Enter your description",
+      "ENTER_EMAIL": "Enter your message",
+      "EXP_DATE": "Expiration date",
+      "FIRSTNAME": "Firstname",
+      "LASTNAME": "Lastname",
+      "RESTRICT_CONTACTS": "Restrict contact list"
+    },
+    "NOTIFICATION": {
+      "SUCCESS": {
+        "CREATE": "The guest account was created successfully",
+        "DELETE": "The guest account was deleted successfully",
+        "UPDATE": "The guest account was updated successfully"
+      }
+    },
+    "TITLE": {
+      "CREATE": "CREATE GUEST ACCOUNT"
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "SWEET_ALERT": {
+    "ON_FILE_COPY": {
+      "CANCEL_BUTTON": "Cancel!",
+      "CONFIRM_BUTTON": "Copy",
+      "TEXT": "You are about to copy received {singular, select, true{a document} other{{nbItems} documents}} for a total of {totalSize} into your own files.",
+      "TITLE": "File copy"
+    },
+    "ON_ITEM_DELETE": {
+      "CANCEL_BUTTON": "Cancel",
+      "CONFIRM_BUTTON": "Yes, delete",
+      "TEXT": {
+        "CONTACTS_LIST": "You are about to remove {singular, select, true{a contacts list} other{{nbItems} contacts lists}} ! Beware, this action cannot be undone.",
+        "CONTACTS_LIST_CONTACT": "You are about to remove {singular, select, true{a contact} other{{nbItems} contacts}} ! Beware, this action cannot be undone.",
+        "DOCUMENT": "You are about to remove {singular, select, true{a document} other{{nbItems} documents}} ! Beware, this action cannot be undone.",
+        "GUEST": "You are about to remove {singular, select, true{a guest} other{{nbItems} guests}} ! Beware, this action cannot be undone.",
+        "RECEIVED_SHARE": "You are about to remove {singular, select, true{a file share} other{{nbItems} files share}} ! Beware, this action cannot be undone.",
+        "WORKGROUP": "You are about to remove{singular, select, true{a workgroup} other{{nbItems} workgroups}} ! Beware, this action cannot be undone.",
+        "WORKGROUP_NODE": "You are about to remove {singular, select, true{a document or folder} other{{nbItems} documents or folders}} ! Beware, this action cannot be undone."
+      },
+      "TITLE": "Deletion"
+    },
+    "ON_LOCALSTORAGE_DELETE": {
+      "TITLE": "Are you sure?",
+      "TEXT": "All your saved localStorage values will be removed",
+      "CONFIRM_BUTTON": "Yes, delete it!",
+      "DONE": "Done",
+      "IS_CLEARED": "LocalStorage is cleared"
+    },
+    "ON_MULTIPLE_DOWNLOAD": {
+      "CANCEL_BUTTON": "CANCEL",
+      "CONFIRM_BUTTON": "OK",
+      "TEXT": "You are going to download {{nbFiles}} files (total size : {{totalSize}})",
+      "TITLE": "Multiple download"
+    },
+    "ON_SHARE_DELETE": {
+      "CANCEL_BUTTON": "Cancel!",
+      "CONFIRM_BUTTON": "Delete",
+      "TEXT": "You are about to remove a share !",
+      "TITLE": "Are you sure?"
+    }
+  },
+  "TOAST_ALERT": {
+    "ACTION": {
+      "BROWSER_ACTION": "{singular, select, true{The file or folder has} other{files or folders have}} been {action, select, moved{moved} other{copied}} into : {folderName}.",
+      "CLOSE": "Close",
+      "CONTACTS_LIST_CREATION": "The Contacts List {{contactsListName}} has been created successfully.",
+      "COPY": "{singular, select, true{The file has been} other{{nbItems} files have been}} copied into your Personal Space.",
+      "COPY_SAME_FOLDER": "{singular, select, true{The file} other{Files}} has been copied successfully.",
+      "DELETE": "Deletion succeeded",
+      "DELETE_SINGULAR": "The item was deleted successfully.",
+      "DELETE_PLURAL": "The items were deleted successfully.",
+      "DETAILS": "Details",
+      "INSERT": "The item was added successfully.",
+      "SHARE": "Your file share {{shareName ? shareName + ' ': ''}}was sent successfully.",
+      "SHARE_DELETED": "Your file share with {{recipient}} was removed successfully.",
+      "SHARE_ASYNC": "Your file share will be sent after the upload of all files.",
+      "SHARE_FAILED": "Your file {{shareName ? shareName + ' ': ''}}share has failed.",
+      "UPDATE": "The item was updated successfully."
+    },
+    "ACTION_BUTTON": "View",
+    "ERROR": {
+      "BROWSER_ACTION": "{nbNodes} {singular, select, true{file or folder} other{files or folders}} couldn't be {action, select, moved{moved} other{copied}}",
+      "COPY": {
+        "DEFAULT": "{singular, select, true{One file} other{{nbItems} files}} could not be copied",
+        "26444": "You do not have sufficient rights to perform this operation"
+      },
+      "FILE_NOT_FOUND": "The selected file has not been found",
+      "FILE_UPLOAD": "The upload failed",
+      "503": "Service Unavailable",
+      "RENAME_NODE": "A file or a folder with the same name already exists",
+      "RENAME_CONTACTS_LIST": "A contact list with the same name already exists",
+      "RENAME_INVALID": {
+        "EMPTY": "The name can't be empty",
+        "ENDING_POINT": "The name cannot finish by the character '.'",
+        "REJECTED_CHAR": "The name is invalid, you cannot use the following characters: '{{rejectedChar}}'"
+      },
+      "DELETE_ERROR": {
+        "26006": "Deletion of a non-empty folder is not yet supported",
+        "26444": "You do not posses the rights to delete"
+      },
+      "NO_RESPONSE_ERROR": "Error without server response, see logs."
+    },
+    "WARNING": {
+      "AT_LEAST_ONE_RECIPIENT": "Please enter at least one recipient or contact list to share with",
+      "AT_LEAST_ONE_DOCUMENT": "No file is selected",
+      "CONTACT_STILL_EXISTS" : "is already in the list",
+      "ELEMENTS_NOT_DELETED": "element(s) haven't been deleted",
+      "ELEMENTS_NOT_DELETED_SINGULAR": "1 item has not been deleted.",
+      "ELEMENTS_NOT_DELETED_PLURAL": "{{number}} items have not been deleted.",
+      "ELEMENTS_NOT_UPLOADED": "{number} {singular, select, true{item has} other{items have}} not been uploaded.",
+      "ERROR": "Error :",
+      "ERROR_404": "Error {{errCode}} - Element not found",
+      "ERROR_403": "Error {{errCode}} - You are not authorized to delete this document",
+      "ERROR_400": "Error {{errCode}} - The request couldn't be achieved",
+      "ERROR_500": "Error {{errCode}} - Server error",
+      "INVALID_EMAIL": "Invalid email",
+      "ISOLATED_FILE": "You are currently viewing a restricted file selection."
+    }
+  }
+}

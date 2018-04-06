@@ -1,0 +1,21 @@
+{
+  "ANONYMOUS_URL": {
+    "FIND_OUT": "Find out more about LinShare!",
+    "FORM": {
+      "CANCEL": "Cancel",
+      "EMPTY": "The password is required to access the anonymous share",
+      "INVALID": "The password provided is invalid",
+      "LABEL": "Password",
+      "SUBMIT": "Submit",
+      "TITLE": "This share is protected by a password",
+      "MSG" : "Enter the password provided by the download share invitation email."
+    },
+    "HEADER": {
+      "TITLE": "ANONYMOUS URL PORTAL"
+    },
+    "HOME": {
+      "404": "The url you tried to access is invalid",
+      "MESSAGE": "You need a valid url to acces to shared documents"
+    }
+  }
+}

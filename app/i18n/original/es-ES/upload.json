@@ -1,0 +1,26 @@
+{
+  "UPLOAD_DESTINATION": "Dest.",
+  "UPLOAD_SHARE_ALERT": {
+    "CANCEL": "Cancel",
+    "MAIN_DIALOG_BUTTON_TITLE": "Share",
+    "MESSAGE": "${nbErrorFilesSelected} file(s) cannot be shared, continue ?",
+    "MESSAGE_SINGULAR": "A file within your selection contains errors and will be removed from the share. Do you still wish to share the remaining files ?",
+    "MESSAGE_PLURAL": "Some files within your selection contain errors and will be removed from the share. Do you still wish to share the remaining files ?",
+    "NO_SHAREABLE_FILE_SELECTED": "The selected files contain errors and cannot be shared",
+    "NO_SHAREABLE_FILE_SELECTED_SINGULAR": "The selected file contains errors and cannot be shared",
+    "TITLE_SINGULAR": "One file can not be shared.",
+    "TITLE_PLURAL": "${nbErrorFilesSelected} files can not be shared."
+  },
+  "UPLOADED_FILES": {
+    "BREADCRUMB_TITLE": "Uploads",
+    "SELECT_INFO": "Upload and select files in order to share them asynchronously"
+  },
+  "DRAG_DROP_BACKGROUND": {
+    "TITLE": "Drop your files here",
+    "COMMENT": "Drag and drop your files here to upload them"
+  },
+  "DRAG_DROP_BACKGROUND_MOBILE": {
+    "TITLE": "Asynchronous share",
+    "COMMENT": "Upload and share your files without delay."
+  }
+}
